@@ -1,6 +1,5 @@
 # Deep-Reinforcement-Learning-from-Human-preferences
-A try of implementation of the paper Deep Reinforcement Learning from Human Preferences for proving my motivation to a EPFL lab and working with them on a semester project.
-
+A start try of the implementation of the algorithm of the paper Deep Reinforcement Learning from Human Preferences.
 ### Game rule
 
 The player controls a yellow point in a 2D world and must reach a goal (a green point) within 25 steps. The player has four actions: up, down, left, and right, which change the x and y values of the yellow point. The player loses if he didn't reach the goal in less than 25 steps and win if the yellow point reached the green point. 
